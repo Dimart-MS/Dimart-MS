@@ -4,6 +4,7 @@ Y soy Software developer en León, Guanajuato. Trabajo principalmente en backend
 
 Actualmente lidero el desarrollo técnico de un ERP/CRM multi-empresa, desplegando con Docker y PostgreSQL. Trabajo medio tiempo mientras curso mi ingeniería como desarrollador de software multiplataforma.
 
+<br>
 
 **Actualmente trabajo con:**
 
