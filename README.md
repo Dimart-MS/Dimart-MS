@@ -6,7 +6,7 @@ Actualmente lidero el desarrollo técnico de un ERP/CRM multi-empresa, desplegan
 
 **Actualmente trabajo con:**
 
-<img src="https://skillicons.dev/icons?i=vscode,python,js,react,postgres,docker,github" height="40" />
+<img src="https://skillicons.dev/icons?i=vscode,python,js,react,postgres,docker,github" height="30" />
 
 **Herramientas:**
 
@@ -19,4 +19,5 @@ Actualmente lidero el desarrollo técnico de un ERP/CRM multi-empresa, desplegan
 ---
 
 **Contáctame.**
+
 [diegomtz5908@gmail.com](mailto:diegomtz5908@gmail.com) · [LinkedIn](https://www.linkedin.com/in/diegomartinez-ms)
