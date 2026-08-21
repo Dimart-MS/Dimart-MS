@@ -10,19 +10,17 @@ Actualmente lidero el desarrollo técnico de un ERP/CRM multi-empresa, desplegan
 
 <img src="https://skillicons.dev/icons?i=vscode,python,js,react,postgres,docker,github" height="35" />
 
-
 **Herramientas:**
 
-<img src="https://skillicons.dev/icons?i=vscode,docker,github,androidstudio,firebase,visualstudio,mysql,postgres" height="40" />
-
+<img src="https://skillicons.dev/icons?i=vscode,docker,github,androidstudio,firebase,visualstudio,mysql,postgres" height="35" />
 
 **Lenguajes:**
 
-<img src="https://skillicons.dev/icons?i=python,kotlin,cs,js,html,css,java" height="40" />
+<img src="https://skillicons.dev/icons?i=python,kotlin,cs,js,html,css,java" height="35" />
 
 ---
 
-
+<br><br>
 
 **Contáctame.**
 
