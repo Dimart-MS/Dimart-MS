@@ -19,7 +19,7 @@ Actualmente lidero el desarrollo técnico de un ERP/CRM multi-empresa, desplegan
 
 **Lenguajes:**
 
-<img src="https://skillicons.dev/icons?i=python,kotlin,cs,js,html,css,java" height="35" />
+<img src="https://skillicons.dev/icons?i=python,kotlin,cs,js,html,css,java,angular" height="35" />
 
 <br><br>
 
