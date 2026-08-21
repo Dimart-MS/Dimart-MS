@@ -1,6 +1,6 @@
-# ¡Hola! Soy Diego Martínez
+# ¡Hola! me llamo Diego Martínez
 
-Software developer en León, Guanajuato. Trabajo principalmente en backend con Python/FastAPI y frontend con React, aunque también le entro a Kotlin/Jetpack Compose cuando el proyecto pide app nativa.
+Y soy Software developer en León, Guanajuato. Trabajo principalmente en backend con Python/FastAPI y frontend con React, aunque también le entro a Kotlin/Jetpack Compose cuando el proyecto pide app nativa.
 
 Actualmente lidero el desarrollo técnico de un ERP/CRM multi-empresa, desplegando con Docker y PostgreSQL. Trabajo medio tiempo mientras curso mi ingeniería como desarrollador de software multiplataforma.
 
