@@ -6,7 +6,7 @@ Actualmente lidero el desarrollo técnico de un ERP/CRM multi-empresa, desplegan
 
 **Actualmente trabajo con:**
 
-<img src="https://skillicons.dev/icons?i=vscode,python,js,react,postgres,docker,github" height="30" />
+<img src="https://skillicons.dev/icons?i=vscode,python,js,react,postgres,docker,github" height="40" />
 
 **Herramientas:**
 
