@@ -4,19 +4,17 @@ Software developer en León, Guanajuato. Trabajo principalmente en backend con P
 
 Actualmente lidero el desarrollo técnico de un ERP/CRM multi-empresa, desplegando con Docker y PostgreSQL. Trabajo medio tiempo mientras curso mi ingeniería como desarrollador de software multiplataforma.
 
-Uso esto para mi trabajo:
+**Actualmente trabajo con:**
 
-<img src="https://skillicons.dev/icons?i=fastapi,react,postgres,docker,git" height="40" />
+<img src="https://skillicons.dev/icons?i=vscode,python,js,react,postgres,docker,github" height="40" />
 
 **Herramientas:**
 
-<img src="https://skillicons.dev/icons?i=vscode,docker,github,androidstudio,firebase,visualstudio" height="40" />
-
----
+<img src="https://skillicons.dev/icons?i=vscode,docker,github,androidstudio,firebase,visualstudio,mysql,postgres" height="40" />
 
 **Lenguajes:**
 
-<img src="https://skillicons.dev/icons?i=python,kotlin,cs,js,html,css,cpp,java" height="40" />
+<img src="https://skillicons.dev/icons?i=python,kotlin,cs,js,html,css,java" height="40" />
 
 ---
 
